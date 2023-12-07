@@ -1,0 +1,15 @@
+/* Placera er stilmall här */
+.album{
+    display: inline-block;
+    /* align-items:center;
+    flex-direction: column;*/
+}
+
+.changebutton {
+    background-color: green;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    width: 4vw;
+    height: 2vh;
+}
